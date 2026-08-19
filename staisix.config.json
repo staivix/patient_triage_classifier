@@ -1,0 +1,9 @@
+{
+  "organization": "Credit One Bank", 
+  "systemProfileID": "SYS-HEALTH-002",
+  "aiSystemName": "patient_triage_classifier",
+  "environment": "staging",
+  "localOverrides": {
+    "deployment_geographies": ["US"]
+  }
+}
