@@ -1,0 +1,11 @@
+{
+  "control_id": "STX-HC-DATA-002",
+  "status": "VERIFIED_PRODUCTION_RELEASE",
+  "privacy_telemetry": {
+    "scrubbing_engine_version": "v2.1-medical",
+    "unmasked_phi_detected": 0,
+    "anonymization_hash_method": "SHA-256"
+  },
+  "risk_operator": "STX-OP-8821",
+  "timestamp": "2026-08-19T00:05:00Z"
+}
